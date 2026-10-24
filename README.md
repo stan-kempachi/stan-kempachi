@@ -1,4 +1,4 @@
-### Stan Bruyère
+### Stan
 
 Développeur Python · automatisation & DevOps · freelance
 

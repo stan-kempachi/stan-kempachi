@@ -7,4 +7,4 @@ Développeur Python · automatisation & DevOps · freelance
 - 🏭 Projets perso déployés et exploités : [RecovR](https://github.com/stan-kempachi/recovr_software) (SaaS Django de contrôle de facturation), [Photo → Devis](https://github.com/stan-kempachi/photo-devis) (devis générés par IA depuis un email), Karakuri Studio (usine de contenu Instagram/TikTok, privé)
 - 🗂️ Vue d'ensemble : [stan-kempachi/portfolio](https://github.com/stan-kempachi/portfolio)
 
-**Stack** : Python, Django, FastAPI, Flask · PostgreSQL · Docker · GitLab CI / GitHub · n8n · Claude API · Linux / Raspberry Pi · Cloudflare
+**Stack** : Python, Django, FastAPI, Flask · PostgreSQL · Docker · GitHub Actions / GitLab CI · pytest · n8n · Claude API · Linux / Raspberry Pi · Cloudflare
